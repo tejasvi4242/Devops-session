@@ -1,0 +1,4 @@
+DevOps -
+	It is combination of 2 words.
+1) development
+2) operations
